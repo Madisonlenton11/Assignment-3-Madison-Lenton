@@ -1,0 +1,244 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 27.8.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 1920 1080" style="enable-background:new 0 0 1920 1080;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#0C0C0C;}
+	.st1{fill:#B5B5B5;}
+	.st2{fill:#7F7F7F;}
+	.st3{fill:#C11616;}
+	.st4{fill:#991313;}
+	.st5{fill:#6D6D6D;}
+	.st6{fill:#E5E2D6;}
+	.st7{fill:#BCB9AC;}
+	.st8{fill:#C1BEB2;}
+	.st9{fill:none;}
+	.st10{font-family:'MyriadPro-Regular';}
+	.st11{font-size:72px;}
+	.st12{fill:none;stroke:#C1BEB2;stroke-width:5;stroke-miterlimit:10;}
+	.st13{fill:#EDCA37;}
+	.st14{fill:none;stroke:#AD8627;stroke-width:5;stroke-miterlimit:10;}
+	.st15{fill:#D3AA39;}
+	.st16{fill:none;stroke:#AD8627;stroke-width:6;stroke-miterlimit:10;}
+	.st17{font-size:36px;}
+</style>
+<g id="Background">
+	<rect class="st0" width="1920" height="1080"/>
+</g>
+<g id="Kick_Pedal">
+	<g>
+		<polygon class="st1" points="891.79,757.84 1015.23,757.84 1034.92,804.21 989.98,1019.82 945.47,1019.82 915.29,1019.82 
+			875.64,804.21 		"/>
+	</g>
+	<rect x="915.29" y="1019.82" class="st1" width="74.82" height="26.18"/>
+	<rect x="922.44" y="1019.51" class="st2" width="60.84" height="20.04"/>
+	<polygon class="st2" points="900.51,769.17 1007.7,769.17 1024.8,811.07 985.77,1005.91 947.12,1005.91 920.91,1005.91 
+		886.48,811.07 	"/>
+	<g id="Kick-circle">
+		<polygon class="st1" points="909.16,776.66 1000.64,776.66 1015.24,815.71 981.93,997.32 948.94,997.32 926.57,997.32 
+			897.19,815.71 		"/>
+	</g>
+</g>
+<g id="Kick_Drum">
+	<rect x="772.12" y="361.68" class="st3" width="400.86" height="320.69"/>
+	<polygon class="st4" points="1172.98,682.36 960.38,682.36 960.38,361.68 1172.98,361.68 1172.98,378.04 	"/>
+	<path class="st1" d="M758.84,361.68l14.98,14.98l-1.71-14.98h400.86v14.98l16.1-16.1v-38.32c0,0-218.02-16.53-430.23,0V361.68z"/>
+	<g>
+		<path class="st5" d="M759.23,358.1l12.88,18.61v-15.03h400.86v14.98l16.46-20C1189.44,356.67,944.24,336.62,759.23,358.1z"/>
+	</g>
+	<g>
+		<polygon class="st5" points="1189.08,360.56 1172.98,376.66 1172.98,361.68 1189.44,356.67 		"/>
+	</g>
+	<polyline class="st5" points="772.12,376.71 758.84,361.68 759.23,358.1 772.12,361.68 772.12,376.71 	"/>
+	<polyline class="st1" points="772.12,682.36 1172.98,682.36 1189.08,682.36 1189.08,711.24 758.84,711.24 758.84,682.47 
+		772.12,682.47 772.12,682.36 772.12,682.36 	"/>
+</g>
+<g id="Floor_Tom">
+	<g>
+		<circle class="st1" cx="1262.09" cy="747.86" r="175.73"/>
+	</g>
+	<g>
+		<circle class="st5" cx="1262.92" cy="748.68" r="164.21"/>
+	</g>
+	<g>
+		<circle class="st6" cx="1262.92" cy="748.68" r="159.27"/>
+	</g>
+	<g id="Floor-circle">
+		<circle class="st7" cx="1259.37" cy="751.52" r="52.69"/>
+	</g>
+	<g>
+		<g>
+			<path class="st8" d="M1262.3,615.93c35.5,0,68.87,13.82,93.97,38.92c25.1,25.1,38.93,58.47,38.93,93.97s-13.82,68.87-38.93,93.97
+				c-25.1,25.1-58.47,38.92-93.97,38.92s-68.87-13.82-93.97-38.92c-25.1-25.1-38.93-58.47-38.93-93.97s13.82-68.87,38.93-93.97
+				C1193.43,629.76,1226.8,615.93,1262.3,615.93 M1262.3,610.93c-76.16,0-137.9,61.74-137.9,137.9s61.74,137.9,137.9,137.9
+				s137.9-61.74,137.9-137.9S1338.46,610.93,1262.3,610.93L1262.3,610.93z"/>
+		</g>
+	</g>
+	<g>
+		
+			<rect x="1382.97" y="595.17" transform="matrix(0.7071 -0.7071 0.7071 0.7071 -32.7156 1169.8075)" class="st1" width="25.52" height="58.44"/>
+	</g>
+	<g>
+		
+			<rect x="1357.84" y="870.49" transform="matrix(0.6947 -0.7193 0.7193 0.6947 -211.8288 1267.4624)" class="st1" width="58.44" height="25.52"/>
+	</g>
+	
+		<rect x="1102.74" y="866.45" transform="matrix(0.6947 0.7193 -0.7193 0.6947 978.0805 -545.8039)" class="st9" width="58.44" height="25.52"/>
+	<g>
+		
+			<rect x="1099.37" y="611.77" transform="matrix(0.7071 -0.7071 0.7071 0.7071 -111.0477 980.9536)" class="st1" width="58.44" height="25.52"/>
+	</g>
+	<text transform="matrix(1 0 0 1 1233.2803 776.6055)" class="st10 st11">D</text>
+</g>
+<g id="Snare_Drum">
+	<g>
+		<circle class="st1" cx="701.59" cy="815.27" r="155.52"/>
+	</g>
+	<g>
+		<circle class="st5" cx="702.32" cy="816" r="145.32"/>
+	</g>
+	<g>
+		<circle class="st6" cx="702.32" cy="816" r="140.95"/>
+	</g>
+	<g>
+		<g>
+			<path class="st8" d="M701.77,699.09c31.26,0,60.65,12.17,82.76,34.28s34.28,51.5,34.28,82.76c0,31.26-12.17,60.65-34.28,82.76
+				c-22.11,22.11-51.5,34.28-82.76,34.28s-60.65-12.17-82.76-34.28c-22.11-22.11-34.28-51.5-34.28-82.76
+				c0-31.26,12.17-60.65,34.28-82.76S670.51,699.09,701.77,699.09 M701.77,694.09c-67.4,0-122.04,54.64-122.04,122.04
+				s54.64,122.04,122.04,122.04s122.04-54.64,122.04-122.04S769.17,694.09,701.77,694.09L701.77,694.09z"/>
+		</g>
+	</g>
+	<g>
+		
+			<rect x="808.56" y="680.15" transform="matrix(0.7071 -0.7071 0.7071 0.7071 -259.0941 786.5081)" class="st1" width="22.58" height="51.72"/>
+	</g>
+	<g>
+		
+			<rect x="786.33" y="923.8" transform="matrix(0.6947 -0.7193 0.7193 0.6947 -424.6531 869.7599)" class="st1" width="51.72" height="22.58"/>
+	</g>
+	<g>
+		
+			<rect x="575.13" y="905.65" transform="matrix(0.7193 -0.6947 0.6947 0.7193 -482.4957 668.8013)" class="st1" width="22.58" height="51.72"/>
+	</g>
+	<g>
+		
+			<rect x="557.59" y="694.83" transform="matrix(0.7071 -0.7071 0.7071 0.7071 -328.4166 619.376)" class="st1" width="51.72" height="22.58"/>
+	</g>
+	<g id="Snare-Circle">
+		<circle class="st7" cx="701.95" cy="819.04" r="52.69"/>
+	</g>
+</g>
+<g id="Medium_Tom">
+	<g>
+		<circle class="st1" cx="1104.38" cy="593.43" r="144"/>
+	</g>
+	<g>
+		<ellipse class="st5" cx="1105.09" cy="593.53" rx="135.61" ry="135.74"/>
+	</g>
+	<g>
+		<circle class="st6" cx="1105.06" cy="594.11" r="130.51"/>
+	</g>
+	<path class="st12" d="M998.66,757.84"/>
+	<path class="st12" d="M1136.56,895.74"/>
+	<g>
+		
+			<rect x="1203.43" y="468.31" transform="matrix(0.7071 -0.7071 0.7071 0.7071 7.4588 1002.5242)" class="st1" width="20.91" height="47.89"/>
+	</g>
+	<g>
+		
+			<rect x="1182.84" y="693.92" transform="matrix(0.6947 -0.7193 0.7193 0.6947 -138.2038 1083.1637)" class="st1" width="47.89" height="20.91"/>
+	</g>
+	<g>
+		
+			<rect x="987.29" y="677.12" transform="matrix(0.7193 -0.6947 0.6947 0.7193 -206.9719 889.8484)" class="st1" width="20.91" height="47.89"/>
+	</g>
+	<g>
+		
+			<rect x="971.04" y="481.91" transform="matrix(0.7071 -0.7071 0.7071 0.7071 -56.73 847.7689)" class="st1" width="47.89" height="20.91"/>
+	</g>
+	<g id="Medium-Circle">
+		<circle class="st7" cx="1104.99" cy="596.16" r="52.69"/>
+	</g>
+	<g>
+		<g>
+			<path class="st8" d="M1105.1,483.13c29.41,0,57.07,11.45,77.87,32.25s32.25,48.45,32.25,77.87s-11.45,57.07-32.25,77.87
+				s-48.45,32.25-77.87,32.25s-57.07-11.45-77.87-32.25c-20.8-20.8-32.25-48.45-32.25-77.87s11.45-57.07,32.25-77.87
+				C1048.03,494.58,1075.69,483.13,1105.1,483.13 M1105.1,478.13c-63.58,0-115.12,51.54-115.12,115.12s51.54,115.12,115.12,115.12
+				s115.12-51.54,115.12-115.12S1168.68,478.13,1105.1,478.13L1105.1,478.13z"/>
+		</g>
+	</g>
+	<text transform="matrix(1 0 0 1 1082.0703 621.8789)" class="st10 st11">E</text>
+</g>
+<g id="High_Tom">
+	<g>
+		<circle class="st1" cx="823.43" cy="615.79" r="121.69"/>
+	</g>
+	<g>
+		<circle class="st5" cx="823.82" cy="616.71" r="114.73"/>
+	</g>
+	<g>
+		<circle class="st6" cx="824" cy="616.36" r="110.29"/>
+	</g>
+	<g>
+		<g>
+			<path class="st8" d="M823.57,525.97c49.9,0,90.49,40.59,90.49,90.49s-40.59,90.49-90.49,90.49s-90.49-40.59-90.49-90.49
+				S773.67,525.97,823.57,525.97 M823.57,520.97c-52.74,0-95.49,42.75-95.49,95.49s42.75,95.49,95.49,95.49s95.49-42.75,95.49-95.49
+				S876.31,520.97,823.57,520.97L823.57,520.97z"/>
+		</g>
+	</g>
+	<g>
+		
+			<rect x="889.73" y="700.71" transform="matrix(0.6947 -0.7193 0.7193 0.6947 -232.5538 871.2261)" class="st1" width="40.47" height="17.67"/>
+	</g>
+	<g>
+		
+			<rect x="724.48" y="686.51" transform="matrix(0.7193 -0.6947 0.6947 0.7193 -285.1337 707.7557)" class="st1" width="17.67" height="40.47"/>
+	</g>
+	<g>
+		
+			<rect x="710.75" y="521.55" transform="matrix(0.7071 -0.7071 0.7071 0.7071 -160.9396 672.2281)" class="st1" width="40.47" height="17.67"/>
+	</g>
+	<g id="High-Tom-Circle">
+		<circle class="st7" cx="822.95" cy="616.17" r="52.69"/>
+	</g>
+	<g>
+		
+			<rect x="906.46" y="507.89" transform="matrix(0.7071 -0.7071 0.7071 0.7071 -105.3543 801.8934)" class="st1" width="17.67" height="40.47"/>
+	</g>
+</g>
+<g id="Ride_Cymbal">
+	<circle class="st13" cx="1331.17" cy="504.12" r="186.83"/>
+	<circle class="st14" cx="1331.17" cy="505.56" r="157.48"/>
+	<circle class="st14" cx="1331.27" cy="504.29" r="130.83"/>
+	<circle class="st14" cx="1331.19" cy="505.08" r="98.54"/>
+	<g id="Ride-Circle">
+		<circle class="st15" cx="1331.58" cy="504.67" r="52.69"/>
+	</g>
+</g>
+<g id="Crash_Cymbal">
+	<circle class="st13" cx="680.53" cy="445.2" r="167.47"/>
+	<circle class="st14" cx="680.53" cy="446.49" r="141.16"/>
+	<circle class="st14" cx="680.62" cy="445.35" r="117.27"/>
+	<circle class="st14" cx="680.55" cy="446.06" r="88.33"/>
+	<g id="Crash-Circle">
+		<circle class="st15" cx="678.9" cy="444.97" r="52.69"/>
+	</g>
+	<text transform="matrix(1 0 0 1 1307.0762 528.8345)" class="st10 st11">4</text>
+	<text transform="matrix(1 0 0 1 654.6943 469.6689)" class="st10 st11">1</text>
+</g>
+<g id="Hi-Hat">
+	<circle class="st13" cx="511.92" cy="732.26" r="136.36"/>
+	<circle class="st14" cx="511.92" cy="733.3" r="114.94"/>
+	<circle class="st14" cx="511.99" cy="732.38" r="95.49"/>
+	<circle class="st14" cx="511.93" cy="732.96" r="71.92"/>
+	<circle class="st16" cx="512.1" cy="733.19" r="47.14"/>
+	<g id="Hi-Hat-Circle">
+		<circle class="st15" cx="511.96" cy="734.45" r="52.69"/>
+	</g>
+	<text transform="matrix(1 0 0 1 675.2358 844.6943)" class="st10 st11">A</text>
+	<text transform="matrix(1 0 0 1 931.2295 930.3887)" class="st10 st11">S</text>
+	<text transform="matrix(1 0 0 1 906.0571 833.1016)" class="st10 st17">SPACE</text>
+	<text transform="matrix(1 0 0 1 788.5225 644.2676)" class="st10 st11">W</text>
+	<text transform="matrix(1 0 0 1 479.3722 759.1005)" class="st10 st11">Q</text>
+</g>
+</svg>
